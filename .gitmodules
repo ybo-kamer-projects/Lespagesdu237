@@ -1,0 +1,4 @@
+[submodule "ybo-kamer-projects/academy"]
+	path = ybo-kamer-projects/academy
+	url = git@github.com:ybo-kamer-projects/academy.git
+	branch = main
